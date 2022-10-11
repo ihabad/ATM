@@ -1,0 +1,14 @@
+C:\Users\ihaba\Desktop\Ihab\Atm\Atm\bin\Debug\netcoreapp3.1\Atm.exe
+C:\Users\ihaba\Desktop\Ihab\Atm\Atm\bin\Debug\netcoreapp3.1\Atm.deps.json
+C:\Users\ihaba\Desktop\Ihab\Atm\Atm\bin\Debug\netcoreapp3.1\Atm.runtimeconfig.json
+C:\Users\ihaba\Desktop\Ihab\Atm\Atm\bin\Debug\netcoreapp3.1\Atm.runtimeconfig.dev.json
+C:\Users\ihaba\Desktop\Ihab\Atm\Atm\bin\Debug\netcoreapp3.1\Atm.dll
+C:\Users\ihaba\Desktop\Ihab\Atm\Atm\bin\Debug\netcoreapp3.1\Atm.pdb
+C:\Users\ihaba\Desktop\Ihab\Atm\Atm\obj\Debug\netcoreapp3.1\Atm.csproj.AssemblyReference.cache
+C:\Users\ihaba\Desktop\Ihab\Atm\Atm\obj\Debug\netcoreapp3.1\Atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihaba\Desktop\Ihab\Atm\Atm\obj\Debug\netcoreapp3.1\Atm.AssemblyInfoInputs.cache
+C:\Users\ihaba\Desktop\Ihab\Atm\Atm\obj\Debug\netcoreapp3.1\Atm.AssemblyInfo.cs
+C:\Users\ihaba\Desktop\Ihab\Atm\Atm\obj\Debug\netcoreapp3.1\Atm.csproj.CoreCompileInputs.cache
+C:\Users\ihaba\Desktop\Ihab\Atm\Atm\obj\Debug\netcoreapp3.1\Atm.dll
+C:\Users\ihaba\Desktop\Ihab\Atm\Atm\obj\Debug\netcoreapp3.1\Atm.pdb
+C:\Users\ihaba\Desktop\Ihab\Atm\Atm\obj\Debug\netcoreapp3.1\Atm.genruntimeconfig.cache
